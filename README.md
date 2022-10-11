@@ -1,3 +1,3 @@
 # hello-World
 Desarrollo
-Desarrollo de software
+y Gestion de software
